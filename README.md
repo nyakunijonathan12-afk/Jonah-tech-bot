@@ -18,10 +18,10 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 <p align="center"> 
     </p>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BscdfUpSmJY0OAOWfyPjNs" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/EXmgi9ArJg9IZHEXYjt6yT?mode=gi_t" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
+  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029Vb7mVGk2Jl8CjF75sI20" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a aria-label="Chat me" href="https://t.me/eliteprotechs" target="_blank">
