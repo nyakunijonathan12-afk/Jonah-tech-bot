@@ -7,7 +7,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=HEY%20DEAR%20WELCOME;TOO%20ELITE-PRO-V1%20BOT%20REPO;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20CYRILIX-XMD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=HEY%20DEAR%20WELCOME;TOO%20Jonah-tech-bot%20BOT%20REPO;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20JONAH-TECH" alt="Typing SVG" />
 </a>
 
 
@@ -18,10 +18,10 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 <p align="center"> 
     </p>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BscdfUpSmJY0OAOWfyPjNs" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/EXmgi9ArJg9IZHEXYjt6yT?mode=gi_t" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
+  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029Vb7mVGk2Jl8CjF75sI20" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a aria-label="Chat me" href="https://t.me/eliteprotechs" target="_blank">
