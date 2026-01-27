@@ -23,7 +23,7 @@ global.autoread = process.env.AUTO_READ === 'true';
 global.autobio = process.env.AUTO_BIO !== 'false'; // default true
 global.anti92 = process.env.ANTI_92 === 'true';
 global.autoswview = process.env.AUTO_SW_VIEW !== 'false'; // default true
-global.welcome = process.env.WELCOME !== 'false'; // default true
+global.welcome = process.env.WELCOME !== 'false'; // default false
 global.autoreact = process.env.AUTO_REACT === 'true';
 global.autolikestatus = process.env.AUTO_LIKE_STATUS === 'true';
 
