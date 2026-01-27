@@ -4,7 +4,7 @@
   "logo": "http://elitepro-url-clouds.onrender.com/20250604_162827.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://jonah-tech.zone.id/session",
-  "owner-verification": "nyakunijonathan12@gmail.com",
+  "owner-verification": "jonahtechbot@gmail.com",
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
