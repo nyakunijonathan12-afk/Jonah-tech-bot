@@ -6,7 +6,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 > **CURRENT BOT VERSION ➜ `1.0.9 ⚡`**
 ---
 
-<a href="https://git.io/typing-svg">
+<a href="https://ibb.co/1tSS9Jpn">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=HEY%20DEAR%20WELCOME;TOO%20Jonah-tech-bot%20BOT%20REPO;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20JONAH-TECH" alt="Typing SVG" />
 </a>
 
