@@ -12,7 +12,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/BscdfUpSmJY0OAOWfyPjNs">
+  <a href="">
     <img alt=Support weight="10" src="ChatGPT Image Jan 26, 2026, 11_05_16 PM.png"> 
     </p>
 <p align="center"> 
