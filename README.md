@@ -101,7 +101,7 @@ Paste this after the installation
 
 <p align="left">  
   <!-- Website -->
-  <a href="https://eliteprotech.zone.id/" target="_blank" aria-label="JONAHPRO Website">  
+  <a href=https://jonahpair.netlify.app/" target="_blank" aria-label="JONAHPRO Website">  
     <img alt="JONAHPRO Website" src="https://img.shields.io/badge/JONAH WEB-25D366?style=for-the-badge&logo=internetexplorer&logoColor=white" />  
   </a>  
 
