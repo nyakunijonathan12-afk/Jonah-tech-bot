@@ -64,6 +64,12 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 - **Deploy on [Optiklink](https://optiklink.com/)**
 - **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/EliteProTech/ELITE-PRO-V1)**
 ---
+## 👑 Owner
+</p align="center">
+<a href="https://GitHub.com/jonahpics.png" width="200" height="200" alt="Jonah King"/>
+</a>
+</p>
+___
 
 ## FOR TERMUX/SSH/UBUNTU
 ```
