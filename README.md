@@ -58,7 +58,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ---
 
 ## OTHER DEPLOYMENT PLATFORMS
-- **Deploy on 
+
 🔵 koyeb | [![Deploy to koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
 ---
 ## 👑 Owner
