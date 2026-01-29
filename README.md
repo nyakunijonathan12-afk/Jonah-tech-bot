@@ -61,6 +61,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 🔵 koyeb | [![Deploy to koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
 🖤 Render | [![Deploy to render](https://img.shields.io/badge/DEPLOY-RENDER-black?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
+♥️ Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/) |
 ---
 ## 👑 Owner
 </p align="center">
