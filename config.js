@@ -53,7 +53,7 @@ global.mess = {
     error: '❌ An unexpected error occurred. Please try again later.',
 };
 
-global.thumb = fs.readFileSync('./Jonah media/thumb.jpg');
+global.thumb = fs.readFileSync('./Jonah media/jonahpics.png');
 
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
