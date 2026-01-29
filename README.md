@@ -60,6 +60,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ## OTHER DEPLOYMENT PLATFORMS
 
 🔵 koyeb | [![Deploy to koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
+🖤 Render | [![Deploy to render](https://img.shields.io/badge/DEPLOY-RENDER-black?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
 ---
 ## 👑 Owner
 </p align="center">
