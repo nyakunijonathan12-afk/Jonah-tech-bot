@@ -58,11 +58,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ---
 
 ## OTHER DEPLOYMENT PLATFORMS
-- **Deploy on [Bot-hosting.net](https://bot-hosting.net/)**
-- **Deploy on [Render](https://render.com)**
-- **Deploy on [Katabump](https://dashboard.katabump.com/auth/login)**
-- **Deploy on [Optiklink](https://optiklink.com/)**
-- **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/EliteProTech/ELITE-PRO-V1)**
+- **Deploy on 
 🔵 koyeb | [![Deploy to koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
 ---
 ## 👑 Owner
