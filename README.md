@@ -63,6 +63,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 - **Deploy on [Katabump](https://dashboard.katabump.com/auth/login)**
 - **Deploy on [Optiklink](https://optiklink.com/)**
 - **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/EliteProTech/ELITE-PRO-V1)**
+🔵 koyeb | [![Deploy to koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
 ---
 ## 👑 Owner
 </p align="center">
