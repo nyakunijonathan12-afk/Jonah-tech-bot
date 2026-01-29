@@ -67,7 +67,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ## 👑 Owner
 </p align="center">
 <a href="https://GitHub.com/jonahpics.png" width="200" height="200" alt="Jonah King"/>
-<img alt=Support weight="10" src="jonahpics.png"width="200" height="200" alt="Jonah King"/> 
+<img alt=Support weight="10" src="jonahpics.png"> 
 </a>
 </p>
 ___
