@@ -91,13 +91,6 @@ npm start
 ```
 ---
 
-## FOR STARTING TERMUX AGAIN
-```
-cd /storage/emulated/0/Download/Jonah-tech-bot-main
-npm start
-```
----
-
 ## FOR 24/7 ACTIVATION TERMUX/SSH/UBUNTU
 ```
 bash
